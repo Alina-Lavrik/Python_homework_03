@@ -6,18 +6,18 @@
 
 # Вариант 1
 
-num = int(input('Введите число: '))
+'''num = int(input('Введите число: '))
  
 dvoichnoe = ''
  
 while num > 0:
     dvoichnoe = str(num % 2) + dvoichnoe
     num = num // 2
-print(f'Двоичное число: {dvoichnoe} ')
+print(f'Двоичное число: {dvoichnoe} ')'''
 
 
 # Вариант 2
 
-#num = int(input('Введите число: '))
-#print(bin(f'Двоичное число: {num} '))
+# num = int(input('Введите число: '))
+# print(bin(num))
 
